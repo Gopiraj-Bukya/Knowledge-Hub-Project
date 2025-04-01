@@ -171,9 +171,9 @@ st.markdown("""
 # ===== APPLICATION LAYOUT =====
 # Background setup
 backgrounds = {
-    "🏠 Home": r"C:\Users\GOPIRAJ\OneDrive\Desktop\lmsstreamlit\Images\rainlightbook.jpg",
-    "📘 Library Manager": r"C:\Users\GOPIRAJ\OneDrive\Desktop\lmsstreamlit\Images\rainchair.jpg",
-    "📖 Learning Den": r"C:\Users\GOPIRAJ\OneDrive\Desktop\lmsstreamlit\Images\cupwithbook.jpg"
+    "🏠 Home": r"C:\Users\GOPIRAJ\lmsstreamlit\Images\rainlightbook.jpg",
+    "📘 Library Manager": r"C:\Users\GOPIRAJ\lmsstreamlit\Images\rainchair.jpg",
+    "📖 Learning Den": r"C:\Users\GOPIRAJ\lmsstreamlit\Images\cupwithbook.jpg"
 }
 
 # Sidebar navigation
